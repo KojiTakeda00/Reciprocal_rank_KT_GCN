@@ -2,6 +2,7 @@
 
 This is a PyTorch implementation of the DarkReciprocalRank paper.
 
+Preprint can be found [here](https://arxiv.org/pdf/2011.00402.pdf).
 
 ## Dependencies
 - Pytorch
